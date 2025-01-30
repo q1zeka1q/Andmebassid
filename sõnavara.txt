@@ -29,3 +29,28 @@ INSERT – добавить данные.
 UPDATE – изменить существующие данные.
 DELETE – удалить данные.
 SELECT – получить данные.
+
+SQL server managment studio
+XAMPP / phpMyAdmin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
